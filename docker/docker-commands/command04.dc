@@ -1,0 +1,1 @@
+docker container exect 01container cat /etc/os-release
