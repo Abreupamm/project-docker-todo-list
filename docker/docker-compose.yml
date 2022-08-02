@@ -2,6 +2,7 @@ version: '3'
 services:
   todotests:
     image: todotests
+    container_name: test
     environment: 
       - FRONT_HOST=front
     depends_on:
